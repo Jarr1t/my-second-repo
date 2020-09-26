@@ -1,1 +1,2 @@
-# my-second-repo
+this is my second repo 
+hi im jarrit# my-second-repo
